@@ -4,6 +4,6 @@
 /* Ceci est mon premier programe en langage C */
 
 int main(){
-    printf("Hello World!/n");
-    exit(0);
+	printf("Hello World!/n");
+	exit(0);
 }
