@@ -1,4 +1,4 @@
-PROGS=game count prime
+PROGS=
 CC=gcc
 CFLAGS=
 
